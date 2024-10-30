@@ -1,1 +1,1 @@
-Live Demo: [!Live Demo](https://ancciu-learning-centre.vercel.app/)
+Live Demo: [Live Demo](https://ancciu-learning-centre.vercel.app/)
